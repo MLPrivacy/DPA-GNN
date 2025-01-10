@@ -1,4 +1,4 @@
-# DPA-GNN
+# Distributed Private Aggregation in Graph Neural Networks
 
 # Requirements
 python >= 3.6  
