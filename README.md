@@ -12,7 +12,7 @@ scipy >= 1.1.0
 torch_geometric==2.4.0
 
 
-## Introduction
+## File Structure
 This project contains 1 folders and 5 files.      
 data (folder): The datasets are stored in this folder.    
 main(file): The file is used for parameter tuning and running the program.  
