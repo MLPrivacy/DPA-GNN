@@ -1,16 +1,18 @@
-# DPA-GNN
-The current code is a demo version; the official version will be released after publication.
+# Distributed Private Aggregation in Graph Neural Networks
+This is the code repository for our paper "Distributed Private Aggregation in Graph Neural Networks".
 
-# Requirements
-python >= 3.6  
+## Requirements
+This code is implemented in Python 3.9, and relies on the following packages:
+
 pytorch >= 1.7.0  
 numpy >=  1.19.5   
 pandas >= 1.1.5    
 scikit-learn >= 0.24.1   
 scipy >= 1.1.0  
+torch_geometric==2.4.0
 
 
-# Introduction
+## File Structure
 This project contains 1 folders and 5 files.      
 data (folder): The datasets are stored in this folder.    
 main(file): The file is used for parameter tuning and running the program.  
