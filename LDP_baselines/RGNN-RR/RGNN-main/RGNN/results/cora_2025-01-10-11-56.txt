@@ -1,0 +1,10 @@
+seed,model,x_eps,y_eps,xhops,m,yhops,clusters,alpha,avg_test_acc,123,gcn,0.5,1,8,10,0,16,1,46.08567208271787
+seed,model,x_eps,y_eps,xhops,m,yhops,clusters,alpha,avg_test_acc,124,gcn,0.5,1,8,10,0,16,1,49.039881831610046
+seed,model,x_eps,y_eps,xhops,m,yhops,clusters,alpha,avg_test_acc,125,gcn,0.5,1,8,10,0,16,1,38.70014771048744
+seed,model,x_eps,y_eps,xhops,m,yhops,clusters,alpha,avg_test_acc,126,gcn,0.5,1,8,10,0,16,1,52.58493353028065
+seed,model,x_eps,y_eps,xhops,m,yhops,clusters,alpha,avg_test_acc,127,gcn,0.5,1,8,10,0,16,1,46.5288035450517
+seed,model,x_eps,y_eps,xhops,m,yhops,clusters,alpha,avg_test_acc,128,gcn,0.5,1,8,10,0,16,1,47.41506646971935
+seed,model,x_eps,y_eps,xhops,m,yhops,clusters,alpha,avg_test_acc,129,gcn,0.5,1,8,10,0,16,1,43.279172821270315
+seed,model,x_eps,y_eps,xhops,m,yhops,clusters,alpha,avg_test_acc,130,gcn,0.5,1,8,10,0,16,1,49.039881831610046
+seed,model,x_eps,y_eps,xhops,m,yhops,clusters,alpha,avg_test_acc,131,gcn,0.5,1,8,10,0,16,1,48.59675036927622
+seed,model,x_eps,y_eps,xhops,m,yhops,clusters,alpha,avg_test_acc,132,gcn,0.5,1,8,10,0,16,1,50.66469719350074

@@ -1,0 +1,9 @@
+dataset£º cora
+Namespace(seed=123, cuda=True, num_runs=10, dataset='cora', out_file='cora_2025-01-10-11-56.txt', val_ratio=0.25, test_ratio=0.25, cols_to_group=25, model='gcn', num_layers=2, hidden=16, dropout=0.5, epochs=100, lr=0.01, weight_decay=0.01, x_eps=0.5, m=10, y_eps=1, e_eps=8.5, xhops=8, yhops=0, num_clusters=16, alpha=1, gpu_id=0, device=device(type='cpu'))
+Results for all_eps=10, eps_rate=0.05, x_eps=0.5, y_eps=1, e_eps=8.5
+                      avg+-std
+best_test_perf    47.8 +- 3.26
+best_val_acc       22.6 +- 1.4
+test_at_best_val  47.2 +- 3.73
+***************************************************************
+***************************************************************
