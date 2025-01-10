@@ -7,6 +7,7 @@ numpy >=  1.19.5
 pandas >= 1.1.5    
 scikit-learn >= 0.24.1   
 scipy >= 1.1.0  
+torch_geometric==2.4.0
 
 
 # Introduction
