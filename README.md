@@ -21,4 +21,6 @@ model(file): The file is used to set weights or MLP.
 layer.py (file): The file is used to set the number of layers in the MLP (Multi-Layer Perceptron).   
 karate_club.py (file): The file is used to download datasets.
 
+'''/train.py'''
+
 
